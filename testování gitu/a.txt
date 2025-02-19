@@ -1,1 +1,1 @@
-První soubor ve větvi master
+První soubor ve větvích funkce2 a master (vlastně main, ale to je jedno)
